@@ -1,0 +1,3 @@
+/home/ww/opencv_demo1/build/CMakeFiles/rebuild_cache.dir
+/home/ww/opencv_demo1/build/CMakeFiles/edit_cache.dir
+/home/ww/opencv_demo1/build/CMakeFiles/demo1.dir
